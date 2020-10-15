@@ -1,6 +1,9 @@
 # wechaty-wangke
 基于wechaty开发网课答案查询小助手
 
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/chatie/wechaty)
+[![Wechaty开源激励计划](https://img.shields.io/badge/Wechaty-开源激励计划-green.svg)](https://github.com/juzibot/Welcome/
+
 ## 背景
 自己有运营一个网课答案查询的微信公众号，无奈服务器压力有时候会大，会出现回复不及时的问题，所以突发冥想开发一个个人号作为备用。
 
@@ -200,6 +203,10 @@ module.exports = {
 }
 
 ```
+
+## Wechaty的Token申请方法
+
+https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty
 
 ## 网课答案接口用法
 
