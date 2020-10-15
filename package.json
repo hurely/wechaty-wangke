@@ -1,0 +1,21 @@
+{
+  "name": "wechaty-nuxt-iview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.4",
+    "qrcode-terminal": "^0.12.0",
+    "wechaty": "^0.48.13",
+    "wechaty-puppet-padplus": "^0.7.21",
+    "xml-js": "^1.6.11"
+  }
+}
